@@ -1,4 +1,5 @@
 from setuptools import setup
+import argiope
 setup(name='mecaruco',
       version=argiope.__version__,
       description="PROJ852: MECARUCO",
